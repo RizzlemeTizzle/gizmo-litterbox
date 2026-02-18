@@ -1,0 +1,14 @@
+# Node / JS
+node_modules/
+.next/
+dist/
+
+# Environment
+.env
+.env.*
+
+# Analytics exports
+analytics/data-pulls/
+
+# System
+.DS_Store
